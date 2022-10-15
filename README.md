@@ -17,3 +17,7 @@ $yarn dev
 ### Ilustrações
 
 https://freesvgillustration.com/ 
+
+### A página inicial
+
+![Inicio](public/inicial.png)
